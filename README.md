@@ -1,9 +1,5 @@
 # <center>大语言模型部署实验报告 </center> 
 
-<center>hw4 2352609 林琪</center>
-
-**<center>项目公开可访问链接：[https://github.com/lq1911/Deployment-and-Analysis-of-Large-Language-Models.git](https://github.com/lq1911/Deployment-and-Analysis-of-Large-Language-Models.git)</center>**
-
 ## 1 环境搭建
 
 ### 1.1 基础环境配置
